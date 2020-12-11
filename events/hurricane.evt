@@ -1,0 +1,11 @@
+[general]
+name=Hurricane
+type=catastrophe
+affected=50
+duration=3000
+
+[injury]
+description=Bones Broken
+chance=10
+duration=90
+death_chance=x<

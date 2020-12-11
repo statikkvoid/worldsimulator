@@ -1,0 +1,11 @@
+[general]
+name=Storm
+type=catastrophe
+affected=0.1
+duration=80
+
+[injury]
+description=Broken Arm
+chance=20
+duration=90
+death_chance=10

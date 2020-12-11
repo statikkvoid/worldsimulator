@@ -1,0 +1,11 @@
+[general]
+name=Volcano
+type=catastrophe
+affected=20
+duration=3000
+
+[injury]
+description=Multiple Broken Bones
+chance=80
+duration=200
+death_chance=50

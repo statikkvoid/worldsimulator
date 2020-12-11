@@ -1,0 +1,11 @@
+[general]
+name=Supernova
+type=catastrophe
+affected=100
+duration=100000
+
+[injury]
+description=Doom
+chance=100
+duration=1000
+death_chance=<100>

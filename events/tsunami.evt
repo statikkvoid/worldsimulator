@@ -1,0 +1,11 @@
+[general]
+name=Tsunami
+type=catastrophe
+affected=5
+duration=240
+
+[injury]
+description=Fractured Bones
+chance=80
+duration=230
+death_chance=50
